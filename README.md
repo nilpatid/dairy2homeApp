@@ -1,3 +1,3 @@
-# dairy2homeApp
-https://scotch.io/tutorials/create-your-first-mobile-app-with-angularjs-and-ionic
-npm install -g cordova ionic
+# Ionic 3 Start Theme
+
+Ionic 3 Start Theme with 10 Pages, mock data, providers samples, Storage, Http and more...
